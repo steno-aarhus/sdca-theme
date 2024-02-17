@@ -1,0 +1,14 @@
+group:
+  - files:
+      - source: .github/workflows/build-website.yml
+        dest: .github/workflows/build-website.yml
+      - source: .github/cc-by-license.md
+        dest: LICENSE.md
+      - source: _extensions/sdca-theme/
+        dest: _extensions/steno-aarhus/sdca-theme/
+    repos: |
+      steno-aarhus/research
+      steno-aarhus/epi-stats
+      steno-aarhus/research-ops
+      steno-aarhus/internationalization
+
