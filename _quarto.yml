@@ -1,0 +1,36 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "SDCA Research"
+  # TODO: Change REPO-NAME to the name of the current repo
+  site-url: "https://steno-aarhus.github.io/REPO-NAME/"
+  repo-url: "https://github.com/steno-aarhus/REPO-NAME"
+  navbar:
+    pinned: true
+    left:
+      - icon: house-door
+        href: "index.qmd"
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+      - icon: three-dots-vertical
+        menu:
+          - text: Official site
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Common Docs
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Epi Stats
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Registers
+            href: "https://www.stenoaarhus.dk/research"
+
+
+format: sdca-theme-html
+
+editor_options:
+  markdown:
+    wrap: 72
+    canonical: true
