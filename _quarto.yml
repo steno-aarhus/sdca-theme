@@ -30,7 +30,7 @@ website:
 
 format: sdca-theme-html
 
-editor_options:
+editor: 
   markdown:
     wrap: 72
     canonical: true
