@@ -8,26 +8,13 @@ website:
   repo-url: "https://github.com/steno-aarhus/REPO-NAME"
   navbar:
     pinned: true
-    left:
-      - icon: house-door
-        href: "index.qmd"
-        text: " "
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
       - icon: twitter
         href: "https://twitter.com/StenoAarhusRes"
-      - icon: three-dots-vertical
-        menu:
-          - text: Official site
-            href: "https://www.stenoaarhus.dk/research"
-          - text: Common Docs
-            href: "https://steno-aarhus.github.io/research"
-          - text: Epi Stats
-            href: "https://steno-aarhus.github.io/epi-stats"
-          - text: Register Space
-            href: "https://steno-aarhus.github.io/register-space"
-
+      - icon: globe
+        href: directory.qmd
 
 format: sdca-theme-html
 
