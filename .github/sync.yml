@@ -6,10 +6,14 @@ group:
         dest: LICENSE.md
       - source: _extensions/sdca-theme/
         dest: _extensions/steno-aarhus/sdca-theme/
+      - source: directory.qmd
+        dest: directory.qmd
     repos: |
       steno-aarhus/research
       steno-aarhus/epi-stats
       steno-aarhus/research-ops
       steno-aarhus/internationalization
       steno-aarhus/register-space
+      steno-aarhus/epi
+      steno-aarhus/coding-cafe
 
