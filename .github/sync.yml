@@ -8,6 +8,8 @@ group:
         dest: _extensions/steno-aarhus/sdca-theme/
       - source: directory.qmd
         dest: directory.qmd
+      - source: .gitignore
+        dest: .gitignore
     repos: |
       steno-aarhus/research
       steno-aarhus/epi-stats
