@@ -2,11 +2,38 @@
 
 ## Installing
 
-Install [Quarto](https://quarto.org/docs/get-started/), then open a Terminal and type out:
+Install [Quarto](https://quarto.org/docs/get-started/), then open a
+Terminal and type out:
 
-```bash
+``` bash
 quarto use template steno-aarhus/sdca-theme
 ```
 
-This will install the extension and create an template that you can use as a
-starting place for the website.
+This will install the extension and create an template that you can use
+as a starting place for the website.
+
+## Setting up a new website
+
+This section is mainly for the admins of the Steno Aarhus GitHub. In the
+directory above this theme folder, run:
+
+``` bash
+# Answer the questions that get asked
+quarto use template steno-aarhus/sdca-theme
+cd NEW-FOLDER
+git init
+cp -r ../sdca-theme/.github/ .github
+mv .github/cc-by-license.md LICENSE.md
+rm .github/sync.yml .github/workflows/sync-files.yml
+mv sdca-theme.Rproj NEW-FOLDER.Rproj
+```
+
+Then modify the rest of the files as needed. Then continue with the next
+bit of code:
+
+``` bash
+git add .
+git commit -m "Initial commit"
+gh repo create steno-aarhus/evakom --public --source . --disable-wiki --push --team NAME
+quarto publish gh-pages
+```
