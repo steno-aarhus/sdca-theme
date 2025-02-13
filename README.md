@@ -35,6 +35,6 @@ the new repository):
 ``` bash
 git add .
 git commit -m "Initial commit"
-gh repo create steno-aarhus/<repo-name> --public --source . --disable-wiki --push --team NAME
+gh repo create steno-aarhus/<repo-name> --public --source . --disable-wiki --push --team <team-name>
 quarto publish gh-pages
 ```
