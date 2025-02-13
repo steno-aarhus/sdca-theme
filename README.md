@@ -29,8 +29,8 @@ mv sdca-theme.Rproj NEW-FOLDER.Rproj
 ```
 
 Then modify the rest of the files as needed. Then continue with the next
-bit of code (Note that you need to change `<repo-name>` to the name of
-the new repository):
+bit of code (Note that you need to change `<repo-name>` and `<team-name` to
+the actual names)
 
 ``` bash
 git add .
