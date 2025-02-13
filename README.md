@@ -29,11 +29,12 @@ mv sdca-theme.Rproj NEW-FOLDER.Rproj
 ```
 
 Then modify the rest of the files as needed. Then continue with the next
-bit of code:
+bit of code (Note that you need to change `<repo-name>` to the name of
+the new repository):
 
 ``` bash
 git add .
 git commit -m "Initial commit"
-gh repo create steno-aarhus/evakom --public --source . --disable-wiki --push --team NAME
+gh repo create steno-aarhus/<repo-name> --public --source . --disable-wiki --push --team NAME
 quarto publish gh-pages
 ```
