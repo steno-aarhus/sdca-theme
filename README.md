@@ -22,6 +22,7 @@ directory above this theme folder, run:
 quarto use template steno-aarhus/sdca-theme
 cd NEW-FOLDER
 git init
+cp ../sdca-theme/.gitignore .gitignore
 cp -r ../sdca-theme/.github/ .github
 mv .github/cc-by-license.md LICENSE.md
 rm .github/sync.yml .github/workflows/sync-files.yml
