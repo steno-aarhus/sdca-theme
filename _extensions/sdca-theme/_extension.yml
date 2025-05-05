@@ -11,7 +11,6 @@ contributes:
   project:
     project:
       type: website
-  
     website:
       repo-branch: main
       repo-actions: [edit, issue, source]
@@ -28,5 +27,5 @@ contributes:
             href: https://steno-aarhus.github.io/research/CODE_OF_CONDUCT.html
           
     reference-location: margin
-
+    brand: _brand.yml
 
