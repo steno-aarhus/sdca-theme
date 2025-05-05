@@ -20,7 +20,7 @@ contributes:
       repo-actions: [edit, issue, source]
       search:
         location: navbar
-        type: overlay
+        type: textbox
       page-footer:
         center:
           - text: "License: CC BY 4.0"
