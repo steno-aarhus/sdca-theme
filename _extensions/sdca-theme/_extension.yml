@@ -7,9 +7,6 @@ contributes:
     html:
       toc: true
       from: markdown+emoji
-      theme:
-          - litera
-          - theme.scss
     
   project:
     project:
