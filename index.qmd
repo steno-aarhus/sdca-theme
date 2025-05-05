@@ -2,7 +2,7 @@
 title: "Welcome To The SDCA Theme and Template for Websites"
 ---
 
-> Randomly generated ChatGPT text to fill space.
+## Randomly generated ChatGPT text to fill space.
 
 In a quaint village nestled between rolling hills and meandering
 streams, the locals gathered every weekend for a lively farmers' market.
@@ -19,5 +19,3 @@ silhouette of an ancient castle stood tall on a hill, silently
 witnessing the passage of time. As evening descended, the village
 transformed into a tranquil oasis, the soft glow of lanterns casting a
 warm and enchanting ambiance over the cobblestone streets.
-
-## Posts
