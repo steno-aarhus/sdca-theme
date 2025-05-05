@@ -1,8 +1,5 @@
 ---
 title: "Welcome To The SDCA Theme and Template for Websites"
-listing:
-  contents: sessions
-  sort: "date"
 ---
 
 > Randomly generated ChatGPT text to fill space.
