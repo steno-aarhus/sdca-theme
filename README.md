@@ -19,7 +19,7 @@ directory above this theme folder, run:
 
 ``` bash
 # Answer the questions that get asked
-quarto use template sdca-theme
+quarto use template steno-aarhus/sdca-theme
 cd NEW-FOLDER
 git init
 cp ../sdca-theme/.gitignore .gitignore
