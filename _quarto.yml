@@ -19,7 +19,7 @@ website:
         href: directory.qmd
         aria-label: "Globe icon: Link to directory page of other SDCA websites"
 
-format: sdca-theme-html
+brand: _extensions/sdca-theme/_brand.yml
 
 editor: 
   markdown:
