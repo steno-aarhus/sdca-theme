@@ -3,6 +3,8 @@ title: "SDCA website template"
 subtitle: "A template for websites in the Steno Aarhus GitHub organisation"
 ---
 
+![](/_extensions/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
+
 ## Randomly generated ChatGPT text to fill space.
 
 In a quaint village nestled between rolling hills and meandering
