@@ -1,5 +1,6 @@
 ---
-title: "Welcome To The SDCA Theme and Template for Websites"
+title: "SDCA website template"
+subtitle: "A template for websites in the Steno Aarhus GitHub organisation"
 ---
 
 ## Randomly generated ChatGPT text to fill space.
