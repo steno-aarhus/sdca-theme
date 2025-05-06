@@ -1,0 +1,21 @@
+meta: 
+  name: 
+    full: Steno Diabetes Center Aarhus
+    short: Steno Aarhus
+  link:
+    github: https://github.com/steno-aarhus
+
+color:
+  palette:
+   rm-red: "#990032"
+  primary: rm-red
+
+typography:
+  fonts:
+    - family: poppins
+      source: "bunny"
+      weight: 300
+    - family: roboto mono
+      source: "bunny"
+  base: poppins
+  monospace: roboto mono
