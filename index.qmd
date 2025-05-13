@@ -3,7 +3,56 @@ title: "SDCA website template"
 subtitle: "A template for websites in the Steno Aarhus GitHub organisation"
 ---
 
-![](/_extensions/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
+All text below this is meant as examples of elements you can add to your
+website. You should delete this text and replace it with your own text,
+images, etc.
+
+## Image example
+
+![Example image
+text](/_extensions/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
+
+<!--
+Text inside blocks like this is not shown on the website. It is only for
+you to read.
+
+Notice that the "code" to add the image above has three elements:
+
+1.  The part in the `[]`: This is the text that will be shown below the
+    image. It is not necessary to add this text, but it can be good idea
+    to add a short description of the image.
+
+2.  The part in the `()`: This is the file path to the image. It is
+    necessary to add this text, and it should be the path to the image
+    you want to add.
+
+3.  The part in the `{}`: The `fig-alt=""` part is the alternative text
+    for the image. It's used by screen readers to describe the image to
+    visually impaired users, so it is important for accessibility. The
+    alt text should be a short description of the image.
+-->
+
+
+## Button example
+
+::: text-center
+[A button linking to a page](https://add/your/link/here.com){.btn
+.btn-primary}
+:::
+
+<!--
+The "code" for the button has multiple elements as well:
+
+1.  The part in the `[]`: This is the text that will be shown on the
+    button.
+2.  The part in the `()`: This is the link to the page you want to link
+    to.
+3.  The part in the `{}`: The `.btn` and `.btn-primary` are classes that
+    style the button. Leave them as they are to keep the button styled
+    as it is now.
+4.  The `text-center` part is a class that centers the button on the
+    page. You can remove it if you want the button to be left-aligned.
+-->
 
 ## Randomly generated ChatGPT text to fill space.
 
