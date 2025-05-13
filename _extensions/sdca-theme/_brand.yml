@@ -27,3 +27,15 @@ typography:
   headings: 
     family: poppins
   monospace: roboto mono
+
+defaults:
+  bootstrap:
+    rules: |
+        .profile-picture {
+          display: inline-block;
+          border-radius: 50%;
+          object-fit: cover;
+          width: 200px;
+          height: 200px;
+          text-align: center;
+        }

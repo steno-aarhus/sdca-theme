@@ -54,6 +54,25 @@ The "code" for the button has multiple elements as well:
     page. You can remove it if you want the button to be left-aligned.
 -->
 
+## Profile picture example
+
+::: text-center
+![Anna Andersen](/_extensions/sdca-theme/images/home-banner.jpg){fig-alt="Image of Anna Andersen" .profile-picture}
+:::
+
+<!--
+The "code" for adding a "profile-picture" (which is an image with
+rounded corners) has the same elements as the image example above, but 
+with a different class in the `{}` part, namely `.profile-picture`.
+
+The `text-center` part is a class that centers the image text on the page,
+which is the text in the `[]` part. 
+
+You can remove `text-center` along
+with the `:::` before and after the image if you want the text to be
+left-aligned.
+-->
+
 ## Randomly generated ChatGPT text to fill space.
 
 In a quaint village nestled between rolling hills and meandering
