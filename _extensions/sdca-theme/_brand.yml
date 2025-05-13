@@ -12,10 +12,18 @@ color:
 
 typography:
   fonts:
+    - family: noto sans
+      source: "bunny"
+      # 500 and 600 weights are used implicitly. E.g., 500 for bold text, 600 for table headers
+      weight: [300, 500, 600] 
     - family: poppins
       source: "bunny"
-      weight: 300
+      weight: 400
     - family: roboto mono
       source: "bunny"
-  base: poppins
+  base:
+    family: noto sans
+    weight: 300
+  headings: 
+    family: poppins
   monospace: roboto mono
