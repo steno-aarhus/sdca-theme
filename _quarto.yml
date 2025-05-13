@@ -20,7 +20,7 @@ website:
         aria-label: "Globe icon: Link to directory page of other SDCA websites"
 
 format:
-  html:
+  sdca-theme-html:
     theme:
       - brand
       - custom-styles.scss
