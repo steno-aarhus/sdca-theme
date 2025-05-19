@@ -37,7 +37,7 @@ Notice that the "code" to add the image above has three elements:
 
 ::: text-center
 [A button linking to a page](https://add/your/link/here.com){.btn
-.btn-primary}
+.btn-primary role="button"}
 :::
 
 <!--
@@ -49,7 +49,8 @@ The "code" for the button has multiple elements as well:
     to.
 3.  The part in the `{}`: The `.btn` and `.btn-primary` are classes that
     style the button. Leave them as they are to keep the button styled
-    as it is now.
+    as it is now. `role="button"` is a role that tells screen readers 
+    that this is a button, which is important for accessibility.
 4.  The `text-center` part is a class that centers the button on the
     page. You can remove it if you want the button to be left-aligned.
 -->
