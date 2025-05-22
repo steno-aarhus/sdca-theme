@@ -75,7 +75,9 @@ with the `:::` before and after the image if you want the text to be
 left-aligned.
 -->
 
-## Randomly generated ChatGPT text to fill space.
+## Randomly generated ChatGPT text to fill space
+
+Here's some **bold text** and some *italic text*.
 
 In a quaint village nestled between rolling hills and meandering
 streams, the locals gathered every weekend for a lively farmers' market.
@@ -92,3 +94,24 @@ silhouette of an ancient castle stood tall on a hill, silently
 witnessing the passage of time. As evening descended, the village
 transformed into a tranquil oasis, the soft glow of lanterns casting a
 warm and enchanting ambiance over the cobblestone streets.
+
+## Table example
+
+Here's a table:
+
+| Name | Age |
+|------|-----|
+| John | 23  |
+| Jane | 24  |
+
+## Callout blocks 
+
+A [callout block](https://quarto.org/docs/authoring/callouts.html):
+
+::: callout
+### Header within callout block
+
+Some text inside a callout block. You can add any text you want here,
+and it will be shown in a box.
+:::
+
