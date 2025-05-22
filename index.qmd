@@ -1,4 +1,5 @@
 ---
+title-block-banner: true
 title: "SDCA website template"
 subtitle: "A template for websites in the Steno Aarhus GitHub organisation"
 ---
