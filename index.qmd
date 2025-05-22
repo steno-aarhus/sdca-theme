@@ -91,3 +91,13 @@ silhouette of an ancient castle stood tall on a hill, silently
 witnessing the passage of time. As evening descended, the village
 transformed into a tranquil oasis, the soft glow of lanterns casting a
 warm and enchanting ambiance over the cobblestone streets.
+
+## Table example
+
+Here's a table:
+
+| Name | Age |
+|------|-----|
+| John | 23  |
+| Jane | 24  |
+
