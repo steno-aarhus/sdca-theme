@@ -74,7 +74,7 @@ with the `:::` before and after the image if you want the text to be
 left-aligned.
 -->
 
-## Randomly generated ChatGPT text to fill space.
+Here's some **bold text** and some *italic text*.
 
 In a quaint village nestled between rolling hills and meandering
 streams, the locals gathered every weekend for a lively farmers' market.
