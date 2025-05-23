@@ -6,6 +6,7 @@ group:
         dest: LICENSE.md
       - source: _extensions/sdca-theme/
         dest: _extensions/steno-aarhus/sdca-theme/
+        deleteOrphaned: true        
       - source: .gitignore
         dest: .gitignore
     repos: |
@@ -23,12 +24,14 @@ group:
       steno-aarhus/prodiap
       steno-aarhus/netvaerk-projektet
       steno-aarhus/steno-voice
+      steno-aarhus/steno-free
   - files:
       # Don't want to overwrite the build-website.yml file in the steno-aarhus.github.io repo
       - source: .github/cc-by-license.md
         dest: LICENSE.md
       - source: _extensions/sdca-theme/
         dest: _extensions/steno-aarhus/sdca-theme/
+        deleteOrphaned: true        
       - source: .gitignore
         dest: .gitignore
     repos: |
