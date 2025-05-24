@@ -11,7 +11,7 @@ images, etc.
 ## Image example
 
 ![Example image
-text](/_extensions/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
+text](/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
 
 <!--
 Text inside blocks like this is not shown on the website. It is only for
@@ -59,7 +59,7 @@ The "code" for the button has multiple elements as well:
 ## Profile picture example
 
 ::: text-center
-![Anna Andersen](/_extensions/sdca-theme/images/home-banner.jpg){fig-alt="Image of Anna Andersen" .profile-picture}
+![Anna Andersen](/images/-banner.jpg){fig-alt="Image of Anna Andersen" .profile-picture}
 :::
 
 <!--
