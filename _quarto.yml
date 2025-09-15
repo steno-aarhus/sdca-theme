@@ -10,6 +10,7 @@ website:
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/REPO-NAME"
+        aria-label: "GitHub icon: Link to website repository"
 
 format:
   sdca-theme-html:
