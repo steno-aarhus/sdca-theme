@@ -6,6 +6,10 @@ website:
   title: "SDCA website template"
   site-url: "https://steno-aarhus.github.io/REPO-NAME/"
   repo-url: "https://github.com/steno-aarhus/REPO-NAME"
+  navbar:
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/REPO-NAME"
 
 format:
   sdca-theme-html:
