@@ -25,6 +25,7 @@ group:
       steno-aarhus/netvaerk-projektet
       steno-aarhus/steno-voice
       steno-aarhus/steno-free
+      steno-aarhus/spoerg-aarsstatus
   - files:
       # Don't want to overwrite the build-website.yml file in the steno-aarhus.github.io repo
       - source: .github/cc-by-license.md
