@@ -33,7 +33,6 @@ Notice that the "code" to add the image above has three elements:
     alt text should be a short description of the image.
 -->
 
-
 ## Button example
 
 ::: text-center
@@ -50,7 +49,7 @@ The "code" for the button has multiple elements as well:
     to.
 3.  The part in the `{}`: The `.btn` and `.btn-primary` are classes that
     style the button. Leave them as they are to keep the button styled
-    as it is now. `role="button"` is a role that tells screen readers 
+    as it is now. `role="button"` is a role that tells screen readers
     that this is a button, which is important for accessibility.
 4.  The `text-center` part is a class that centers the button on the
     page. You can remove it if you want the button to be left-aligned.
@@ -64,11 +63,11 @@ The "code" for the button has multiple elements as well:
 
 <!--
 The "code" for adding a "profile-picture" (which is an image with
-rounded corners) has the same elements as the image example above, but 
+rounded corners) has the same elements as the image example above, but
 with a different class in the `{}` part, namely `.profile-picture`.
 
 The `text-center` part is a class that centers the image text on the page,
-which is the text in the `[]` part. 
+which is the text in the `[]` part.
 
 You can remove `text-center` along
 with the `:::` before and after the image if you want the text to be
@@ -104,7 +103,7 @@ Here's a table:
 | John | 23  |
 | Jane | 24  |
 
-## Callout blocks 
+## Callout blocks
 
 A [callout block](https://quarto.org/docs/authoring/callouts.html):
 
@@ -114,4 +113,3 @@ A [callout block](https://quarto.org/docs/authoring/callouts.html):
 Some text inside a callout block. You can add any text you want here,
 and it will be shown in a box.
 :::
-
