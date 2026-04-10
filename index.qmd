@@ -59,7 +59,7 @@ The "code" for the button has multiple elements as well:
 ## Profile picture example
 
 ::: text-center
-![Anna Andersen](/images/-banner.jpg){fig-alt="Image of Anna Andersen" .profile-picture}
+![Anna Andersen](/images/banner.png){fig-alt="Image of Anna Andersen" .profile-picture}
 :::
 
 <!--
