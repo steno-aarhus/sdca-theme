@@ -25,7 +25,6 @@ git init
 cp ../sdca-theme/.gitignore .gitignore
 cp -r ../sdca-theme/.github/ .github
 mv .github/cc-by-license.md LICENSE.md
-rm .github/sync.yml .github/workflows/sync-files.yml
 mv sdca-theme.Rproj NEW-FOLDER.Rproj
 ```
 
