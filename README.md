@@ -9,7 +9,7 @@ Terminal and type out:
 quarto use template steno-aarhus/sdca-theme
 ```
 
-This will install the extension and create an template that you can use
+This will install the extension and create a template that you can use
 as a starting place for the website.
 
 ## Setting up a new website
