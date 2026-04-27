@@ -22,7 +22,7 @@ as a starting place for the website.
    website and add the relevant people to the team.
 
 2. Create the website files locally using the Seedcase
-   [template-website](https://template-website.seedcase-project.org/)
+   [Template Website](https://template-website.seedcase-project.org/)
    (choose the simple version when prompted), then apply the SDCA theme:
 
    ```bash
