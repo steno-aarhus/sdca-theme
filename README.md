@@ -27,6 +27,7 @@ as a starting place for the website.
 
    ```bash
    uvx copier copy --trust gh:seedcase-project/template-website <repo-name>
+   cd <repo-name>
    quarto use template steno-aarhus/sdca-theme
    ```
 
