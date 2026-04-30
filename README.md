@@ -41,10 +41,12 @@ as a starting place for the website.
    quarto publish gh-pages
    ```
 
-4. On GitHub, add a repository description and the website URL in the
+4. On GitHub, give the repository team write access to the the new repository.
+
+5. On GitHub, add a repository description and the website URL in the
    repository's `<> Code` tab.
 
-5. To sync the repository to the Steno Aarhus website, add topics to the
+6. To sync the repository to the Steno Aarhus website, add topics to the
    repository. In the `steno-aarhus` organisation, go to
    Settings > Repository > Topics. Find the new repository and add topics
    as listed
