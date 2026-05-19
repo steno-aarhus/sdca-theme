@@ -6,6 +6,13 @@ website:
   title: "SDCA website template"
   site-url: "https://steno-aarhus.github.io/REPO-NAME/"
   repo-url: "https://github.com/steno-aarhus/REPO-NAME"
+  
+  # TODO: Remove announcement when website is ready
+  announcement: 
+    icon: info-circle
+    content: "This website is a work in progress and might contain some incomplete or placeholder content."
+    type: light
+  
   navbar:
     tools:
       - icon: github
