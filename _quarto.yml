@@ -10,7 +10,7 @@ website:
   # TODO: Remove announcement when website is ready
   announcement: 
     icon: info-circle
-    content: "This website is a work in progress and might contain some incomplete or placeholder content."
+    content: "This website is a work in progress and might contain incomplete or placeholder content."
     type: light
   
   navbar:
