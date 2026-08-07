@@ -4,6 +4,18 @@ title: "Template landing page"
 subtitle: "A template for websites in the Steno Aarhus GitHub organisation"
 ---
 
+::: callout-important
+ While we can set up a website in the `steno-aarhus` GitHub organisation for you, 
+and we can help you getting started, your website is your responsibility. This 
+includes e.g., the content, structure, and 
+[web accessibility](https://steno-aarhus.github.io/research/contributing/github-websites.html#web-accessibility). 
+
+See the list of 
+[useful resources](https://steno-aarhus.github.io/research/contributing/github-websites.html)
+on the Research website.
+:::
+
+
 All text below this is meant as examples of elements you can add to your
 website. You should delete this text and replace it with your own text,
 images, etc.
