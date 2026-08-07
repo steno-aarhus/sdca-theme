@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+>  While we can set up a website in the `steno-aarhus` GitHub organisation for you, 
+> and we can help you getting started, your website is your responsibility. This 
+> includes e.g., the content, structure, and 
+> [web accessibility](https://steno-aarhus.github.io/research/contributing/github-websites.html#web-accessibility). 
+> 
+> See the list of 
+> [useful resources](https://steno-aarhus.github.io/research/contributing/github-websites.html)
+> on the Research website.
+
 # sdca-theme: Theming and styling for SDCA websites
 
 ## Installing
